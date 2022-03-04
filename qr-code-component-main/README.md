@@ -1,3 +1,15 @@
-Preview:
+# QR CODE CHALLENGE
 
-https://front-end-mentor-xi-pied.vercel.app/
+  ## Preview
+
+  - https://front-end-mentor-xi-pied.vercel.app/
+
+  ## Build with
+
+  - HTML
+  - CSS
+
+  ## Author
+
+  - Xnern
+
