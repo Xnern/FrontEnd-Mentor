@@ -1,3 +1,16 @@
-preview:
+# ORDER SUMMARY CHALLENGE
 
-https://order-summary-component-challenge-sigma.vercel.app/
+  ## Preview
+
+  - https://order-summary-component-challenge-sigma.vercel.app/
+
+  ## Build with
+
+  - HTML
+  - CSS
+
+  ## Author
+
+  - Xnern
+
+
